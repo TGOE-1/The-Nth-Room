@@ -1,8 +1,7 @@
 # 第N实验室
 > <div style="text-align: right;">
-  <a href="./team.md" style="font-weight: bold; font-size: 1.2em; margin-right: 20px;">Team</a>
-  <a href="./projects.md" style="font-weight: bold; font-size: 1.2em;">Projects</a>
- </div>
+>  <a href="./team.md" style="font-weight: bold; font-size: 1.2em; margin-right: 20px;">Team</a>
+>  <a href="./projects.md" style="font-weight: bold; font-size: 1.2em;">Projects</a>
 ---
 
 欢迎来到 **第N实验室** 课题组主页！
