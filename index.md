@@ -1,7 +1,7 @@
 # 第N实验室
 > <div style="text-align: right;">
->  <a href="./team.md" style="font-weight: bold; font-size: 1.2em; margin-right: 20px;">Team</a>
->  <a href="./projects.md" style="font-weight: bold; font-size: 1.2em;">Projects</a>
+>  <a href="./team.html" style="font-weight: bold; font-size: 1.2em; margin-right: 20px;">Team</a>
+>  <a href="./projects.html" style="font-weight: bold; font-size: 1.2em;">Projects</a>
 
 
 ---
