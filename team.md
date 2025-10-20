@@ -21,4 +21,4 @@
 |   |张佳奔|研二|  | |
 |   |李子恒|研二|  | |
 |   |周航宇|研一|  | |
-|   |张京杰|研一|[web](https://tgoe-1.github.io/-/)| |
+|   |张京杰|研一|[web]((https://tgoe-1.github.io/Mr.zhang/))| |
