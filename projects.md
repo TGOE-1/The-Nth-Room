@@ -14,4 +14,4 @@
 
 |项目|负责人|教程/链接|
 |:---:|:---:|:---:|
-|插线板指南针|  |[教程]( https://tgoe-1.github.io/yanbo/)|
+|插线板指南针|  |[教程](https://tgoe-1.github.io/stella-Polaris/)|
