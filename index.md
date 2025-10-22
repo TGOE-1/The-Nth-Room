@@ -110,9 +110,9 @@ body {
 <div class="grid-container">
 
     <div class="project-card">
-        <a href="https://your-project1-link.com" class="project-title">插线板指南针</a>
+        <a href="https://your-project1-link.com" class="project-title">多旋翼无人机</a>
         <div class="project-image-container">
-            <img src="XXX" alt="插线板指南针">
+            <img src="./picture/多旋翼无人机.png" alt="多旋翼无人机">
         </div>
         <div class="project-description">
             <p></p>
@@ -121,9 +121,9 @@ body {
     </div>
 
     <div class="project-card">
-        <a href="https://your-project2-link.com" class="project-title">项目二标题</a>
+        <a href="https://your-project2-link.com" class="project-title">无线电打卡设备</a>
         <div class="project-image-container">
-            <img src="./B.jpg" alt="项目B照片">
+            <img src="./picture/无线电打卡设备.png" alt="无限电打卡设备">
         </div>
         <div class="project-description">
             <p>这是项目二的详细文字说明</p>
