@@ -126,7 +126,7 @@ body {
             <img src="./picture/无线电打卡设备.png" alt="无限电打卡设备">
         </div>
         <div class="project-description">
-            <p>这是项目二的详细文字说明</p>
+            <p>无线电测向比赛中的无线电打卡设备，是一套用于精确记录运动员寻找隐藏电台顺序和用时的电子计时系统。</p>
             <p></p>
         </div>
     </div>
