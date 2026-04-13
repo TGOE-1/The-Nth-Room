@@ -143,12 +143,12 @@ body {
     </div>
 
     <div class="project-card">
-        <a href="https://your-project4-link.com" class="project-title">插线板指南针</a>
+        <a href="https://your-project4-link.com" class="project-title">测向机</a>
         <div class="project-image-container">
-            <img src="./picture/插线板指南针.png" alt="插线板指南针">
+            <img src="./picture/插线板指南针.png" alt="测向机">
         </div>
         <div class="project-description">
-            <p>一个简单的的电子指南针。它通过磁传感器模块实时检测地球磁场并计算方向发送给51单片机，再由51单片机将角度与方位信息画在LCD屏幕上。</p>
+            <p>测向机是测定无线电波来波方向的专用仪器，目前已经用于河北省无线电测向比赛。</p>
             <p></p>
         </div>
     </div>
