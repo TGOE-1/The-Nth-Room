@@ -132,23 +132,23 @@ body {
     </div>
 
     <div class="project-card">
-        <a href="https://your-project3-link.com" class="project-title">项目三标题</a>
+        <a href="https://your-project3-link.com" class="project-title">智能小车</a>
         <div class="project-image-container">
-            <img src="./C.jpg" alt="项目C照片">
+            <img src="./C.jpg" alt="智能小车">
         </div>
         <div class="project-description">
-            <p>这是项目三的详细文字说明。</p>
+            <p>智能循迹小车是能自动识别并沿预设路径（黑线）行驶的机器人，具备避障与远程控制功能。</p>
             <p></p>
         </div>
     </div>
 
     <div class="project-card">
-        <a href="https://your-project4-link.com" class="project-title">插线板指南针</a>
+        <a href="https://your-project4-link.com" class="project-title">测向机</a>
         <div class="project-image-container">
-            <img src="./picture/插线板指南针.png" alt="插线板指南针">
+            <img src="./picture/插线板指南针.png" alt="测向机">
         </div>
         <div class="project-description">
-            <p>一个简单的的电子指南针。它通过磁传感器模块实时检测地球磁场并计算方向发送给51单片机，再由51单片机将角度与方位信息画在LCD屏幕上。</p>
+            <p>测向机是测定无线电波来波方向的专用仪器，目前已经用于河北省无线电测向比赛。</p>
             <p></p>
         </div>
     </div>
