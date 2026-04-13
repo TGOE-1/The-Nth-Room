@@ -112,7 +112,7 @@ body {
     <div class="project-card">
         <a href="https://your-project1-link.com" class="project-title">多旋翼无人机</a>
         <div class="project-image-container">
-            <img src="./picture/多旋翼无人机.jpg" alt="多旋翼无人机">
+            <img src="./picture/电赛无人机.jpg" alt="多旋翼无人机">
         </div>
         <div class="project-description">
             <p>飞控、机械结构和计算机CV三大系统的精密协同是多旋翼无人机的核心，也是我们组所研究的方向。小组汇聚了一群对多旋翼无人机技术怀有浓厚兴趣的探索者，我们因热爱而相聚，在动手实践中不断解锁飞行的奥秘。</p>
