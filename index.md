@@ -132,12 +132,12 @@ body {
     </div>
 
     <div class="project-card">
-        <a href="https://your-project3-link.com" class="project-title">项目三标题</a>
+        <a href="https://your-project3-link.com" class="project-title">智能小车</a>
         <div class="project-image-container">
-            <img src="./C.jpg" alt="项目C照片">
+            <img src="./C.jpg" alt="智能小车">
         </div>
         <div class="project-description">
-            <p>这是项目三的详细文字说明。</p>
+            <p>智能循迹小车是能自动识别并沿预设路径（黑线）行驶的机器人，具备避障与远程控制功能。</p>
             <p></p>
         </div>
     </div>
