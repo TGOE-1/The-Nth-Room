@@ -123,10 +123,10 @@ body {
     <div class="project-card">
         <a href="https://your-project2-link.com" class="project-title">无线电打卡设备</a>
         <div class="project-image-container">
-            <img src="./picture/无线电打卡设备.png" alt="无限电打卡设备">
+            <img src="./picture/信号源.jpg" alt="信号源">
         </div>
         <div class="project-description">
-            <p>无线电测向比赛中的无线电打卡设备，是一套用于精确记录运动员寻找隐藏电台顺序和用时的电子计时系统。</p>
+            <p>型号源是无线电测向比赛中，按特定频率和莫尔斯电码区分、隐蔽发射信号的“狐狸”电台。</p>
             <p></p>
         </div>
     </div>
@@ -145,10 +145,10 @@ body {
     <div class="project-card">
         <a href="https://your-project4-link.com" class="project-title">测向机</a>
         <div class="project-image-container">
-            <img src="./picture/测向机.png" alt="测向机">
+            <img src="./picture/侧向机.jpg" alt="测向机">
         </div>
         <div class="project-description">
-            <p>测向机是测定无线电波来波方向的专用仪器，目前已经用于河北省无线电测向比赛。</p>
+            <p>测向机是测定无线电波来波方向的专用接收设备，是无线电测向系统的终端。</p>
             <p></p>
         </div>
     </div>
