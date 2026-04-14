@@ -163,4 +163,4 @@ body {
 
 
 
-如果您对我们的工作感兴趣，欢迎随时联系课题组负责人，郭丁丁老师：[郭丁丁主页](https://gddinhapend.github.io/gddresume/)
+如果您对我们的工作感兴趣，欢迎随时联系课题组负责人，郭丁丁老师：[郭丁丁老师主页](https://gddinhapend.github.io/gddresume/)
